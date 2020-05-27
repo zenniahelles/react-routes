@@ -1,0 +1,21 @@
+nav{
+    background: rgb(17, 17, 32);
+    color:rgb(117, 135, 175);
+    font-family:sans-serif;
+
+li{
+    display:inline-block;
+    padding:10px;
+    color:rgb(117, 135, 175);
+    text-decoration:none;
+    :visited{
+        color:rgb(117, 135, 175);
+    }
+    :hover{
+        color:rgb(138, 157, 199);
+    }
+    a{
+        text-decoration:none;
+    }
+}
+}
